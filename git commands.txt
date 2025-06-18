@@ -1,5 +1,5 @@
 ** Clonar repositori
-git clone "https://github.com/benetpons/mediapbi/tree/main"
+git clone "https://github.com/benetpons/mediapbi"
 
 ** Pujar dades
 git status
