@@ -1,3 +1,11 @@
+** Clonar repositori
 git clone "https://github.com/benetpons/mediapbi/tree/main"
 
+** Pujar dades
 git status
+git add --all
+git commit "your message"
+git push
+
+** Descarregar dades
+git pull
